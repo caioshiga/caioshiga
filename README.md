@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caioshiga
-- 👀 I’m interested in  trabalhar com Front End
+- 👀 I’m interested in work with Front End
 - 🌱 I’m currently learning  HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
