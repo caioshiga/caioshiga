@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @caioshiga
 - 👀 I’m interested in work with Front End
 - 🌱 I’m currently learning  HTML, CSS, JavaScript, SQL, NODE
-- 📫 How to reach me ...
